@@ -10,8 +10,8 @@ CVC,Okex,Bybit
 DASH,CoinEx,Gate
 DGB,Binance,Gate
 DUSK,Bybit,Binance
-dYdX,CoinEx,Bybit
-dYdX,FTX,Bybit
+DYDX,CoinEx,Bybit
+DYDX,FTX,Bybit
 EGLD,CoinEx,Bitget
 EGLD,CoinEx,Gate
 EOS,FTX,dYdX
